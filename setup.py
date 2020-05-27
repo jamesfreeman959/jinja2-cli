@@ -17,11 +17,11 @@ install_requires = ["jinja2"]
 tests_requires = ["pytest", "flake8"]
 
 setup(
-    name="jinja2-cli",
-    version="0.7.0",
-    author="Matt Robenolt",
-    author_email="matt@ydekproductions.com",
-    url="https://github.com/mattrobenolt/jinja2-cli",
+    name="jinja2-cli-enh",
+    version="0.7.1",
+    author="James Freeman",
+    author_email="sysadmin@hkskies.com",
+    url="https://github.com/jamesfreeman959/jinja2-cli.git",
     description="A CLI interface to Jinja2",
     long_description=__doc__,
     packages=find_packages(exclude=["tests"]),
